@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/krishmediratta/quote-machine.git/static/css/main.49e15c46.css",
-    "main.js": "/krishmediratta/quote-machine.git/static/js/main.e55fd13e.js",
-    "index.html": "/krishmediratta/quote-machine.git/index.html",
-    "main.49e15c46.css.map": "/krishmediratta/quote-machine.git/static/css/main.49e15c46.css.map",
-    "main.e55fd13e.js.map": "/krishmediratta/quote-machine.git/static/js/main.e55fd13e.js.map"
+    "main.css": "/quote-machine/static/css/main.49e15c46.css",
+    "main.js": "/quote-machine/static/js/main.3dc1a37f.js",
+    "index.html": "/quote-machine/index.html",
+    "main.49e15c46.css.map": "/quote-machine/static/css/main.49e15c46.css.map",
+    "main.3dc1a37f.js.map": "/quote-machine/static/js/main.3dc1a37f.js.map"
   },
   "entrypoints": [
     "static/css/main.49e15c46.css",
-    "static/js/main.e55fd13e.js"
+    "static/js/main.3dc1a37f.js"
   ]
 }
